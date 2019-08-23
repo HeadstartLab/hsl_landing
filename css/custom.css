@@ -17,3 +17,17 @@
     - Themanoid
 
 ----------------------------*/
+
+
+/*
+Comment out vertical lines
+*/
+
+.l1:before,
+.l1:after,
+.l2:before,
+.l2:after,
+.l3:before,
+.l3:after {
+  border-left: none;
+}
