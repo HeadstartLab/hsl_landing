@@ -31,3 +31,21 @@ Comment out vertical lines
 .l3:after {
   border-left: none;
 }
+
+.hsl-logo {
+  height: 30px;
+}
+
+h4 {
+  color: #a6093d;
+}
+
+a:hover,
+a:focus {
+  color: #a6093d;
+}
+
+.hero {
+  font-size: 24px;
+  padding: 70px 120px;
+}
