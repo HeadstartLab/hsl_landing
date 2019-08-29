@@ -71,3 +71,8 @@ ul.label-list li {
   position: relative;
   overflow: hidden;
 }
+
+.grid.classic .item:hover h3,
+.grid.classic .item:hover h4 {
+  color: #a6093d;
+}
